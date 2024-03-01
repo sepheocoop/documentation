@@ -53,7 +53,7 @@ As for affiliates, you register your details with us - your skills, field of wor
 
 You will have access to the register and be able to search it for collaborators, leads and clients. You agree not to do this on your own behalf only, and not on behalf of a non-member or external organisation.
 
-You can submit a lead to the network, such as a call for contributors or information about a role. We use a loose guidelines called the "BUN" and "BISCUIT" protocols for this.
+You can submit a lead to the network, such as a call for contributors or information about a role. We use a loose guidelines called the "Bun" protocols for this.footnote:bunprotocol[And the "Cookie" extension. See https://dna.crisp.se/docs/bun-protocol.html]
 
 You can join one or more groups in the society, see below. Typically you'll want to join the local group nearest your geographic location. But groups can also be a way of creating collaborations.
 
@@ -89,7 +89,7 @@ To be a matchmaker, you need to be a member who has put themselves forward for t
 
 Matchmakers act as representatives for the society to the outside. They can approach potential clients, or be approached, in order to facilitate the supply of labour from the membership. They get paid fixed rates for simple searches, but can negotiate with clients to provide more of an extensive service for a larger fee. Typically this includes an introduction fee should a successful hire be achieved, at a rate of commission related to the number hired and their rates. The introduction fee is shared between the matchmaker and the society - this is hoped to be another significant source of revenue.
 
-You can submit a lead to the network, such as a call for contributors or information about a role. We use loose guidelines called the "Bun" protocol for this - see https://dna.crisp.se/docs/bun-protocol.html[here] - but in general you will be mediating the lead.
+You can submit a lead to the network, such as a call for contributors or information about a role. We use a loose guidelines called the "Bun" protocols for this.footnote:bunprotocol[And the "Cookie" extension. See https://dna.crisp.se/docs/bun-protocol.html]
 
 Matchmakers can be voted of the role out if the membership feel like they don't have full confidence.
 
