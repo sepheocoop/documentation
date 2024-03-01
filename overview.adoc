@@ -1,0 +1,141 @@
+
+= A Mutual Society for Self-Employed Professionals.
+
+Any title for such an organisation would ideally be something suggesting a "Mutual Society for the Self-Employed" - but a complete non-sequitur might work. Below I will just use the name "the society".
+
+I am a little inspired by the ideas of https://wiki.p2pfoundation.net/Phyles#P2P_Guilds_instead_of_Phyles?[Phyles or Guilds] and https://wiki.p2pfoundation.net/Nondominium[Non-dominums] from the https://wiki.p2pfoundation.net/Main_Page[P2PF wiki] - so something potentially trans-national which happens to use a particular legal vehicle rather than vice versa. But that's really out of scope for the purposes here.
+
+== What is it?
+
+From Wikipedia: https://en.wikipedia.org/wiki/Mutual_organization
+
+> A mutual exists with the purpose of raising funds from its membership [...] which can then be used to provide common services to all members of the organization or society. A mutual is therefore owned by, and run for the benefit of, its members – it has no external shareholders to pay in the form of dividends, and as such does not usually seek to maximize and make large profits or capital gains. 
+
+We are a mutual organisation for self-employed professionals.
+
+We are starting small with a minimal plan: to facilitate members networking, for mutual collaboration, and to out them in touch with potential work. 
+
+This will involve maintaining a list of *members*, *non-member affiliates*, and *hirers*. This details of this list is not public. Members get access to this list. Non-members can pay to get mediated access to this list, and possibly other services such as match-making.
+
+Our scope may expand if this is successful and enough funds become available to do so.
+
+For instance, we plan to promote and support co-operative governance, and provide tools for the creation of new co-operative associations and organisations by the membership.
+
+== Usage instructions
+
+...From the point of view of various parties.
+
+=== Affiliates: Non-member self-employed professionals
+
+You become an affiliate by registering your details with us - your skills, field of work, and the kind of clients and collaborators you'd like to work with. This costs nothing. This information goes into the register. You may get contacted for your professional services as a result.  You may be contacted occasionally to check your availability and that the details are still correct. You can ask for these to be removed, and for your affiliate status to end.
+
+We don't vet your skills or competence - hirers and collaborators do that.
+
+You will have access to an affiliate's forum. You need to agree to the forum's code of conduct for this.
+
+You can submit a lead to the network, such as a call for contributors.
+
+You can ask for a search of the registered members to be made. There may be a fee for this.
+
+You can come to our networking events. Again there may be a fee for this.
+
+=== Members: self-employed professionals
+
+To be a member, you need to be a self-employed professional. In practice this means either being a sole-trader registered with HMRC, possibly working direct or via an umbrella company, or a professional with their own a personal service company.
+
+We don't vet your skills or competence - your hirers and collaborators do that. We may check your employment status with HMRC.
+
+You will have access to the affiliates and the members' forum.
+
+You need to agree to the forum's code of conduct for the forum and generally.
+
+As for affiliates, you register your details with us - your skills, field of work, and the kind of clients and collaborators you'd like to work with. This information goes into the register. You may get contacted for your professional services as a result.  You may be contacted occasionally to check your availability and that the details are still correct.
+
+You will have access to the register and be able to search it for collaborators, leads and clients. You agree not to do this on your own behalf only, and not on behalf of a non-member or external organisation.
+
+You can submit a lead to the network, such as a call for contributors or information about a role. We use a loose guidelines called the "BUN" and "BISCUIT" protocols for this.
+
+You can join one or more groups in the society, see below. Typically you'll want to join the local group nearest your geographic location. But groups can also be a way of creating collaborations.
+
+There is a membership subscription fee. The goes towards the running of the society's services. The amount and terms are set by the society stewardship, who are elected representatives. We hope to keep this relatively low, but this depends on the size of the membership and any other sources of revenue. There may be an introduction rate, and a minimum membership period.
+
+=== Hirers looking for self-employed professionals
+
+You become an affiliate hirer by registering your details with us - this may include the field of work, your organisational structure (mainly if you are a co-operative or not) and the kind of the skills you require, if you need help currently. This costs nothing. This information goes into the register.
+
+Co-operatives (and non-profits?) may get discounted rates.
+
+You may get contacted by our members professional as a result.  You may be contacted occasionally to check that the details are still correct. You can ask for these to be removed, and for your affiliate status to end.
+
+Alternatively, if you want to find individuals with certain skills or experience, or assemble teams of them, you can pay for a help from a representative of the society - a matchmaker (see above.)
+
+At a bare minimum, there's a fixed fee to get an unvetted list of candidates whose profiles in the register match your requirements, from which you can select, negotiate, and maybe recruit.
+
+You also negotiate a finders fee, which might be set on an ability-to-pay basis, but typically this is set at a rate of commission related to the number hired and their rates. The finder's fee is shared between the match-maker and the society, to help to keep the service running and the network healthy.
+
+You can submit a lead or advertisement to the network, such as a call for contributors or information about a role. There may be a small fee for this; especially if it is mediated by a matchmaker.
+
+== Society roles
+
+In addition to affiliates, members and hirers above, we have some other roles.
+
+=== Stewards
+
+These are elected members who maintain the registry and oversee the organisation's operation.  They get paid for their time from the funds raised by the membership and introductions.
+
+=== Matchmakers
+
+To be a matchmaker, you need to be a member who has put themselves forward for this role and been voted in. The upper number of matchmakers is set by the society stewardship. The role is for a fixed term, after which you need to be voted in again.
+
+Matchmakers act as representatives for the society to the outside. They can approach potential clients, or be approached, in order to facilitate the supply of labour from the membership. They get paid fixed rates for simple searches, but can negotiate with clients to provide more of an extensive service for a larger fee. Typically this includes an introduction fee should a successful hire be achieved, at a rate of commission related to the number hired and their rates. The introduction fee is shared between the matchmaker and the society - this is hoped to be another significant source of revenue.
+
+You can submit a lead to the network, such as a call for contributors or information about a role. We use loose guidelines called the "Bun" protocol for this - see https://dna.crisp.se/docs/bun-protocol.html[here] - but in general you will be mediating the lead.
+
+Matchmakers can be voted of the role out if the membership feel like they don't have full confidence.
+
+=== Group representatives
+
+(This pattern for groups is partially inspired by sociocracy.)
+
+Members can create and join recognised groups for specific interests. A particular case we'd like to support initially are local groups.  But they might also represent other non-geographic interest groups, such as members who have certain skills, interests, or work in certain fields and industries; or those who are LGBQT+, neurodivergent, or from a particular culture or ethic group. 
+
+Groups can also be formed by members with affinities for working with each other.  This could be useful for gathering people to work on a particular project, or who collaborate frequently.
+
+Members can belong to more than one group.
+
+To be represented in the society, a group needs to select some of its members to represent it in connected "circles". Typically there group should have at least two, but not more than eight in their representative circle.
+
+There is no particular upper limit in group size, however. Note the distinction between a group and its representative "circle".
+
+Two of the representative circle are delegated to go to meetings on behalf of the group. One should be the speaker and one the minute taker.  They needn't be the same individuals for every meeting.
+
+The society should keep track of which members have been selected.
+
+It seems preferable for a single member not to represent more than one group at a time, to avoid conflicts of interests, and to avoid overloading.
+
+It follows then that to form a group you need at least two members, who (ideally) are not already representing a group.
+
+Groups may have subgroups, if more granularity is needed. Similar guidelines apply.
+
+Groups might use Open-Collective to manage funds; this could be especially useful for collaborative groups, and perhaps the society could act as a Open-Collective fiscal host to support this. Collaboration groups would need tools for managing contracts with clients. Successful collaborative groups could become the seed for the formation of a new organisation, that might then become a hirer.
+
+It is hoped that these processes, and their governance, can be directly supported by the society with advice and tools, such as software, and partnerships with other organisations.
+
+Being in a group, or being a representative of one, is not a role which is remunerated directly by the society. This is to allow the number of groups to vary freely without needing to worry about revenue depletion, as funds to pay with are limited.
+
+Details on these rules about groups is a work in process and will in any case need some stewarding. But it is imagined that representatives would be typically elected from the group membership, for a fixed term, after which they would stand down and need to be voted in again.
+
+The possibilities for lots of groups implies that general  meetings might become large, which may be undesirable.
+
+== Bootstrapping the organisation
+
+There is a bootstrap phase in which we investigate the general demand for this service amongst potential affiliates, members and hirers.
+
+In this phase, we won't run any services - we will simply ask people for their reaction, and collect details from them - including registering their details, as if they were affiliates, but also a notional "pledge" indicating what they'd be prepared to pay as a subscription fee.  Likewise, we can collect details from potential hirers, and indications of what fees / commission they think is reasonable.
+
+We will have a variety of scenarios and target amounts of revenue for these.  The simplest might be just to pay to incorporate and minimally run the organisation; or or to pay for the maintenance of the register (whilst possibly remaining unincorporated?)  This is a work in progress.
+
+When we collect enough to reach one of these scenarios, we can check that the pledges still stand, and if so begin to collect fees and implement that scenario. We may need to be a declared a gap between collecting the first fees and the service coming online, as for example there may need to be a process of selecting people to fill the roles. Hopefully this gap can be minimised with planning.
+
+If the membership grows, we can partner with other organisations to secure more services at favourable rates, such as advice, contract reviews, legal templates, dispute mediation, training, and so on. With adequate funds, there could be the potential to create bread funds or other bespoke tools and services for members.
+
