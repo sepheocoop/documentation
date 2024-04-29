@@ -1,0 +1,34 @@
+Mutual trading rules
+
+https://www.uk.coop/resources/community-shares-handbook/8-tax-treatment/89-corporation-tax/891-mutual-trading-cs
+
+
+As it stands the SEMS/Sepheo concept is a bit like South Park's
+"Underpants Gnomes" plan for success:
+
+1. Collect underpants
+2. ...
+3. Profit!
+
+Or in our case:
+
+1. Collect freelancer contacts
+2. ...
+3. Profit!
+
+We need to flesh out step 2. What is it which actually adds value?
+
+An idea: be a platform for matchmaking, and reward the matchmakers
+
+1. Collect freelancer and client contacts, wants and offers
+2.1. Society selects N people for matchmaker role
+2.2. provide them access to the directory of freelancers and clients needs/wants
+2.3. Matchmakers respond to clients (freelancers?) expressing needs, sign agreement to find
+2.4. Fee paid for successful matches, split between matchmaker and society 
+3. Profit!
+
+Matchmakers nominated by society and and work in the society/client interests
+
+Terms of this arrangement managed by stewards, who are nominated by
+the society to look after the organisation's interests - but are not matchmakers.
+Stewards' work is funded by membership fee.
