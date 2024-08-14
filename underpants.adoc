@@ -20,12 +20,13 @@ We need to flesh out step 2. What is it which actually adds value?
 
 An idea: be a platform for matchmaking, and reward the matchmakers
 
-1. Collect freelancer and client contacts, wants and offers
-2.1. Society selects N people for matchmaker role
-2.2. provide them access to the directory of freelancers and clients needs/wants
-2.3. Matchmakers respond to clients (freelancers?) expressing needs, sign agreement to find
-2.4. Fee paid for successful matches, split between matchmaker and society 
-3. Profit!
+. Collect freelancer and client contacts, wants and offers
+. Next...
+.. Society selects N people for matchmaker role
+.. provide them access to the directory of freelancers and clients needs/wants
+.. Matchmakers respond to clients (freelancers?) expressing needs, sign agreement to find
+.. Fee paid for successful matches, split between matchmaker and society 
+. Profit!
 
 Matchmakers nominated by society and and work in the society/client interests
 
