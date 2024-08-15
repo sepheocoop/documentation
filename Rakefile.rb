@@ -4,6 +4,7 @@
 
 DIR = Pathname.new(__dir__)
 BUILD_DIR = DIR + 'build'
+GIT_PURL_BASE = 'https://github.com/sepheocoop/documentation/blob/'
 
 autoload :FileUtils, 'fileutils'
 require 'asciidoctor'
@@ -15,6 +16,11 @@ def rel(path, ref = pwd)
   path = Pathname.new(path) unless path.is_a? Pathname
   path = path.expand_path unless path.absolute?
   path.relative_path_from(ref).to_s
+end
+
+# Helper method to get the URL for a file given it's gitref and path
+def source_url(git_ref, path)
+  GIT_PURL_BASE + git_ref + '/' + path
 end
 
 # Adapted from https://discuss.asciidoctor.org/Paragraph-numbering-tp3697p3890.html
@@ -42,17 +48,25 @@ task :pdf do
   require 'asciidoctor-pdf'
   require 'kramdown/converter/pdf'
   output_dir = BUILD_DIR + 'docs'
+  theme_file = DIR + 'pdf-theme.yml'
+  git_ref = `git rev-parse HEAD`.chomp
+  git_describe = `git describe --always --tags --dirty --abbrev=4`.chomp
 
   # Convert Asciidoc files
-  Dir[DIR + 'docs/*.adoc'].each do |file|
-    warn "building #{rel file} -> #{rel BUILD_DIR + file}"
+  Dir['docs/*.adoc', base: DIR.to_s].each do |file|
+    warn "building #{file} -> #{rel BUILD_DIR + file} #{source_url git_ref, file}"
     
     Asciidoctor.convert_file(
-      file,
+      DIR+file,
       safe: :unsafe,
       backend: 'pdf',
       to_dir: rel(output_dir),
       mkdirs: true,
+      attributes: {
+        'pdf-theme' => rel(theme_file),
+        'source-url' => source_url(git_ref, file),
+        'git-describe' => git_describe,
+      },
     )
   end
 

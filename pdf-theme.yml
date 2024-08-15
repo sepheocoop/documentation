@@ -1,0 +1,9 @@
+# Adapted from https://www.wimdeblauwe.com/blog/2019/2019-12-20-customization-of-asciidoctor-pdf-output/
+extends: default
+footer:
+  recto:
+    right:
+      content: '{docname}{docfilesuffix} {source-url}[v:{git-describe}] | *{page-number}*'
+  verso:
+    left:
+      content: '*{page-number}* | {docname}{docfilesuffix} {source-url}[v:{git-describe}]'
