@@ -13,22 +13,23 @@ PROBLEM INTERVIEW SCRIPT
 JTD INTERVIEW SCRIPT
 
 **Starts exploring**
-[context] Tell us how you first decided to take on ACTIVITY
-[problems] How have you done something similar before?
+- [context] Tell us how you first decided to take on ACTIVITY
+- [problems] How have you done something similar before?
 What prompted you to take on something new?
-[big jobs] What was the big long-term problem you wanted to solve?
+- [big jobs] What was the big long-term problem you wanted to solve?
 
 **Searching for a solution**
-[context, problems] At what point did you start looking for a solution?
-[channels] Think back to a time when you were researching solutions. How did you look for a solution?
-[competitors in the market] What other ways did you consider solving the problem?
-[big jobs] Describe the transformation you expected from the activity you wanted to take on?
-[economics] What was your budget for this task?
+- [context, problems] At what point did you start looking for a solution?
+- [channels] Think back to a time when you were researching solutions. How did you look for a solution?
+- [competitors in the market] What other ways did you consider solving the problem?
+- [big jobs] Describe the transformation you expected from the activity you wanted to take on?
+- [economics] What was your budget for this task?
 
 **Buys**
-[solution] What prompted you to take on this activity at that particular moment?
-[market, solution] Who or what helped you make the decision?
-Where did you turn for help? [solution] And please tell me the timeline of how you did this. What was interesting at different stages?
+- [solution] What prompted you to take on this activity at that particular moment?
+- [market, solution] Who or what helped you make the decision?
+Where did you turn for help?
+- [solution] And please tell me the timeline of how you did this. What was interesting at different stages?
 
 **Purchase**
-[context] Help me imagine the decision-making scene, like in a movie
+- [context] Help me imagine the decision-making scene, like in a movie
